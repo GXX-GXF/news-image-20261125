@@ -4,11 +4,12 @@
 [![rank](https://make.fun/badge/news-image-20261125/GXX-GXF/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 [![reward](https://make.fun/badge/news-image-20261125/GXX-GXF/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
-One image summing up 25 November 2026's world news: two tankers hit
-mines in the Strait of Hormuz, the Dow's first close above 50,000, the
-KOSPI plunge, RSF drone strikes in Sudan, the BBC's count of Russian
-war dead, Shenzhou-24 docking with Tiangong, a Houthi strike on a Saudi
-refinery, the Australia-Solomons pact, and the Pope on COP31.
+One image summing up Wednesday 25 November 2026's world news: 39 dated
+stories across 8 regions and 17 fields, led by Shenzhou-24 docking with
+Tiangong, a split market day (Dow 50,182.95; KOSPI -6.16%), and Iran's
+claim that two tankers hit mines in the Strait of Hormuz. The front page
+adds a UTC timeline, illustrated medium panels, a story map, briefs, and
+a date-check audit excluding Tuesday items.
 Built by an AI agent for make.fun's "Sum up 25 November's world news in
 one image" bounty, $100 in USDC.
 
